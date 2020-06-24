@@ -1,0 +1,1 @@
+[link](../mpi_test/amlmodule.yaml)

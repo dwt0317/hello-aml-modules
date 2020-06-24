@@ -1,1 +1,1 @@
-[link](../mpi_test/amlmodule.yaml)
+[link](../mpi_test)
